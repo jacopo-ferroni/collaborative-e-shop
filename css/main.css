@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.h-200px {
+    height: 200px;
+}
+
+.h-1200px {
+    height: 1200px;
+}
+
+.obj-contain {
+    object-fit: contain;
+}
